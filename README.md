@@ -37,3 +37,17 @@ For debug mode:
 ```bash
 flutter run 
 ```
+
+## App Preview
+
+1 . The add task page
+
+![IMG](img/Add_task_page.png)
+
+2.  Home page after a task is added
+
+![IMG](img/Home_page_after_adding_task.png)
+
+3. Display showing a task is complete
+
+![IMG](img/check_complete_task.png)
